@@ -15,3 +15,9 @@ This is a simple keylogger program written in Python using the `pynput` library.
 - Stops logging when the Escape key is pressed.
 
  ## Usage                                                                                                                                                                        1 Run the program                                                                                                                                                              2 The program will start logging key presses. You can type in any application, and the keys will be recorded in keylog.txt.                                                     3 To stop the logging, press the Esc key
+## Installation
+
+1. Clone the repository or download the source code.
+2. Install the required library using pip:
+
+   ```bash
